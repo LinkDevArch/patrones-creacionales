@@ -49,7 +49,7 @@ public class ContratoAlquilerBuilder implements ContratoBuilder {
     @Override
     public Contrato build() {
 
-        // ✅ regla del PDF
+    
         if (contrato.getDuracionDias() > 30) {
             contrato.setDescuento(0.15); // 15% descuento
         }
