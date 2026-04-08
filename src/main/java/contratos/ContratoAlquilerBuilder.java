@@ -49,7 +49,6 @@ public class ContratoAlquilerBuilder implements ContratoBuilder {
     @Override
     public Contrato build() {
 
-    
         if (contrato.getDuracionDias() > 30) {
             contrato.setDescuento(0.15); // 15% descuento
         }
