@@ -1,4 +1,4 @@
-package inventory;
+package inventario;
 
 public class Auto extends Vehiculo{
     private String tipoCarroceria;

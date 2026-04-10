@@ -1,4 +1,4 @@
-package inventory;
+package inventario;
 
 public class Vans extends Vehiculo{
     int capacidadPasajeros;

@@ -1,6 +1,6 @@
 package contratos;
 
-import inventory.Vehiculo;
+import inventario.Vehiculo;
 
 public class Contrato {
     private Cliente cliente;

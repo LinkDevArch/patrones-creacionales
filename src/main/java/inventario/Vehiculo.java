@@ -1,4 +1,4 @@
-package inventory;
+package inventario;
 
 public abstract class Vehiculo implements Cloneable{
     protected String marca;
